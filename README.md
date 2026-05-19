@@ -2,6 +2,10 @@
 
 A comprehensive implementation of ML systems for Q&A ranking and promotion forecasting, designed for platforms like Quora, Reddit, and e-commerce sites.
 
+# System Design Course – APIs, Databases, Caching, CDNs, Load Balancing & Production Infra
+- https://youtu.be/C842vFY5kRo?si=-mz8ItjKptoXR4-8
+- <img width="726" height="342" alt="image" src="https://github.com/user-attachments/assets/c35fa74c-7017-4478-806d-4f4e8479821a" />
+
 ## 🚀 Quick Start
 
 ### Running Q&A Ranking
